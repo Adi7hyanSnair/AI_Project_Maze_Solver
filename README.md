@@ -49,10 +49,10 @@ while resolving conflicts among multiple agents. The algorithm uses A* search as
 
 ## Contributors
 
-- Adith Anish [AM.SC.U4AIE23103]
-- Adithyan S [AM.SC.U4AIE23104]
-- Mohamed Hani [AM.SC.U4AIE23130]
-- Sravan Chandrakanth [AM.SC.U4AIE23152]
+- ### Adith Anish [AM.SC.U4AIE23103]
+- ### Adithyan S [AM.SC.U4AIE23104]
+- ### Mohamed Hani [AM.SC.U4AIE23130]
+- ### Sravan Chandrakanth [AM.SC.U4AIE23152]
 
 
 Feel free to contribute by submitting issues or pull requests!
