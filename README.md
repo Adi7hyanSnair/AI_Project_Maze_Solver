@@ -24,10 +24,10 @@ while resolving conflicts among multiple agents. The algorithm uses A* search as
 - Left Mouse Button: Add walls.
 - Right Mouse Button: Remove walls.
 - Keyboard:
--- S: Set start points for agents.
--- E: Set the goal position.
--- SPACE: Start the pathfinding process.
--- R: Reset the maze and generate a new random maze.
+  - S: Set start points for agents.
+  - E: Set the goal position.
+  - SPACE: Start the pathfinding process.
+  - R: Reset the maze and generate a new random maze.
 
 
 ## How It Works
